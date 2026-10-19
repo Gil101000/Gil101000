@@ -56,7 +56,7 @@
 
 ### 📬 Onde me encontrar
 - **LinkedIn:** [linkedin.com/in/gildanio-ant%C3%B3nio-53333b202](https://www.linkedin.com/in/gildanio-ant%C3%B3nio-53333b202/)
-- **Email:** gillucas78@gmail.com:
+- **Email:** gillucas78@gmail.com
 
 <!--
 **Gil101000/Gil101000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
